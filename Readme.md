@@ -1,16 +1,14 @@
-No. p defined as:}
+For  each `p` defined as the a random seed, a factible seed `s` is found as :
 ```
 s = 2502505 + 100 (p - 1).
-s seeds.
 ```
-In this work
+Formula taken from [Bischoff and Ratcliff, 1995],
 
-Karabulut P1A1, P1A2,...,P5A5:
-p=[1,...,100]
+In this work, from [Karabulut and Inceo Inceoglu, 2004]., the problems: P1A2, P2A2, P3A2, P4A2, P5A2 are chosen to create data. 
 
-Martello (200) I,IV,V:
-no se contaron
-Berkey and Wang (1987)
+```
+p = [1,...,100]
+```
 
 The line for each box type contains 8 numbers:     
 
@@ -58,5 +56,14 @@ Example:
 | ... | ... | ... | ... | ... | ... | ... | ... |
 |23 | 1 | 1 | 3 | 1 | 2 | 1 | 1|
 
+References:
+
+[Karabulut and Inceo Inceoglu, 2004]
+Karabulut, K. and ˙Inceo ˘glu, M. M. (2004). A hybrid genetic algorithm for packing in 3d with deepest
+bottom left with fill method. In International Conference on Advances in Information Systems,
+pages 441–450. Springer
+
+Bischoff, E. E. and Ratcliff, M. (1995). Issues in the development of approaches to container
+loading. Omega, 23(4):377–390.
 
 
