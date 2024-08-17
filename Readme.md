@@ -2,9 +2,9 @@ For  each `p` defined as the a random seed, a factible seed `s` is found as :
 ```
 s = 2502505 + 100 (p - 1).
 ```
-Formula taken from [Bischoff and Ratcliff, 1995],
+Formula taken from [Bischoff and Ratcliff, 1995].
 
-In this work, from [Karabulut and Inceo Inceoglu, 2004]., the problems: P1A2, P2A2, P3A2, P4A2, P5A2 are chosen to create data. 
+In this work, from [Karabulut and Inceo Inceoglu, 2004], the problems: P1A2, P2A2, P3A2, P4A2, P5A2 are chosen to create data. 
 
 ```
 p = [1,...,100]
@@ -63,6 +63,7 @@ Karabulut, K. and ˙Inceo ˘glu, M. M. (2004). A hybrid genetic algorithm for pa
 bottom left with fill method. In International Conference on Advances in Information Systems,
 pages 441–450. Springer
 
+[Bischoff and Ratcliff, 1995]
 Bischoff, E. E. and Ratcliff, M. (1995). Issues in the development of approaches to container
 loading. Omega, 23(4):377–390.
 
